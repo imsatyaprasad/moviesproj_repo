@@ -1,0 +1,23 @@
+h1{
+
+    background-color: red;
+    padding: 15px;
+    color: skyblue;
+}
+body{
+    color: skyblue;
+
+    background: url(https://images.unsplash.com/12/till-the-cows-come-home.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80);
+    background-repeat: no-repeat;
+    background-size: cover ;
+}
+table{
+    color: white;
+}
+thead,th{
+    border: 2px solid red;
+    font-size: 30px;
+    color: red;
+    margin: auto;
+    background:yellow;
+}
